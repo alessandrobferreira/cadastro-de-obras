@@ -1,7 +1,7 @@
 
-# Desafio Java WEB - Publica
 
-Objetivo do desafio: desenvolver uma solução para o gerenciamento de obras.
+
+
 
 Tecnologia utilizada: Springboot versão 2.7.15, com Java versão 11
 
